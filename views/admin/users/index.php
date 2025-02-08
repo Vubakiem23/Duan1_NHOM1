@@ -58,4 +58,3 @@ if (isset($_SESSION['success'])) {
         </tbody>
     </table>
 </div>
-
